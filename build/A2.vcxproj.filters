@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Asher Williams\Documents\Spring Semester 2019\CSCE 441\PA2\A2\L00\src\GLSL.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Asher Williams\Documents\Spring Semester 2019\CSCE 441\PA2\A2\L00\src\MatrixStack.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Asher Williams\Documents\Spring Semester 2019\CSCE 441\PA2\A2\L00\src\Program.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Asher Williams\Documents\Spring Semester 2019\CSCE 441\PA2\A2\L00\src\Shape.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Asher Williams\Documents\Spring Semester 2019\CSCE 441\PA2\A2\L00\src\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\Asher Williams\Documents\Spring Semester 2019\CSCE 441\PA2\A2\L00\src\Component.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asher Williams\Documents\Spring Semester 2019\CSCE 441\PA2\A2\L00\src\GLSL.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asher Williams\Documents\Spring Semester 2019\CSCE 441\PA2\A2\L00\src\MatrixStack.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asher Williams\Documents\Spring Semester 2019\CSCE 441\PA2\A2\L00\src\Program.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asher Williams\Documents\Spring Semester 2019\CSCE 441\PA2\A2\L00\src\Shape.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asher Williams\Documents\Spring Semester 2019\CSCE 441\PA2\A2\L00\src\tiny_obj_loader.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Asher Williams\Documents\Spring Semester 2019\CSCE 441\PA2\A2\L00\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\Asher Williams\Documents\Spring Semester 2019\CSCE 441\PA2\A2\L00\resources\frag.glsl" />
+    <None Include="C:\Users\Asher Williams\Documents\Spring Semester 2019\CSCE 441\PA2\A2\L00\resources\simple_frag.glsl" />
+    <None Include="C:\Users\Asher Williams\Documents\Spring Semester 2019\CSCE 441\PA2\A2\L00\resources\simple_vert.glsl" />
+    <None Include="C:\Users\Asher Williams\Documents\Spring Semester 2019\CSCE 441\PA2\A2\L00\resources\vert.glsl" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{D1E6616F-586A-3283-B9FE-3AA6741C49AB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{8D47206E-2CED-3666-A1C0-C67DFF59A998}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

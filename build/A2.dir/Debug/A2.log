@@ -1,0 +1,7 @@
+﻿  main.cpp
+c:\users\asher williams\documents\spring semester 2019\csce 441\pa2\a2\l00\src\Component.h(24): warning C4018: '<': signed/unsigned mismatch
+c:\users\asher williams\documents\spring semester 2019\csce 441\pa2\a2\l00\src\Component.h(35): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\asher williams\documents\spring semester 2019\csce 441\pa2\a2\l00\src\Component.h(36): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\asher williams\documents\spring semester 2019\csce 441\pa2\a2\l00\src\Component.h(37): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\asher williams\documents\spring semester 2019\csce 441\pa2\a2\l00\src\Component.h(48): warning C4018: '<': signed/unsigned mismatch
+  A2.vcxproj -> C:\Users\Asher Williams\Documents\Spring Semester 2019\CSCE 441\PA2\A2\L00\build\Debug\A2.exe
